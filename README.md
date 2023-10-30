@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # BravoSix
+SEBUAH PROGRAM PEMILIHAN BARANG SYSTEM JUAL BELI
 public class Senapan {
 private String jenis;  // Jenis senapan (misalnya AR-14, AK, BOLTAC)
 private String nama;   // Nama senapan
