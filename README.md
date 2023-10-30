@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 # BravoSix
 public class Senapan {
 private String jenis;  // Jenis senapan (misalnya AR-14, AK, BOLTAC)
 private String nama;   // Nama senapan
 private double harga;  // Harga senapan dalam satuan mata uang (rubel)
+=======
+# BravoSix Program Penjualan Senapan
+public class Senapan {
+    private String jenis;  // Jenis senapan (misalnya AR-14, AK, BOLTAC)
+    private String nama;   // Nama senapan
+    private double harga;  // Harga senapan dalam satuan mata uang (rubel)
+>>>>>>> ccf747fc180c2a5251d99fde4d1b03d10f521d1f
 
     /**
      * Konstruktor kelas Senapan.
